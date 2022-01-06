@@ -5,16 +5,16 @@ IDE: Eclipse
 
 En esta materia estuvieron los siguientes conceptos:
 
--Fundamentos de Java, Objetos y Clases
+- Fundamentos de Java, Objetos y Clases
 
--Manejo de Consola
+- Manejo de Consola
 
--Variables y Métodos
+- Variables y Métodos
 
--Clase Math, String y Enum
+- Clase Math, String y Enum
 
--If, Switch, While, Do-While, For
+- If, Switch, While, Do-While, For
 
--Arrays y Matrices
+- Arrays y Matrices
 
--Tipos de Ordenamiento y Ordenamiento Burbuja
+- Tipos de Ordenamiento y Ordenamiento Burbuja
